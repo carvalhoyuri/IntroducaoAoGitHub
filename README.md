@@ -7,7 +7,7 @@
 
 ## Programa de estudos
 ### Conceitos Iniciais
-1. [Git e GitHub](/0_conceitos_iniciais)
+1. [Git e GitHub](/0_conceitos_iniciais/o-que-e-git.md)
 ### Pré-requisitos
 
 1. [Instalando o Git](/1_instalando_git/instalando-git.md)
