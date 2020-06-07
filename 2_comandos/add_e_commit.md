@@ -9,8 +9,8 @@ O comando
 git add "arquivo"
 ```
 
-Realizará a ação de adicionar o referido arquivo que se encontra no diretório do seu sistema à uma área temporária chamada Index, essa operação faz parte do fluxo de trabalho no Git.
-Podemos imaginar esta etapa de adição de arquivos ao Index, como pequenos checkpoints em nosso código, como quando necessitamos adicionar e testar novas funcionalidades ou fazer alguma alteração da qual não temos certeza se irá funcionar ou não. Sendo assim,é possível realizar testes ao passo em que construímos o código e salvar somente sua versão final com o comando commit que veremos posteriormente.<br>
+Realizará a ação de adicionar o referido arquivo que se encontra no diretório do seu sistema à uma área temporária chamada Index, essa operação faz parte do fluxo de trabalho no Git.<br>
+Podemos imaginar esta etapa de adição de arquivos ao Index, como pequenos checkpoints em nosso código, como quando necessitamos adicionar e testar novas funcionalidades ou fazer alguma alteração da qual não temos certeza se irá funcionar ou não. Sendo assim, é possível realizar testes ao passo em que construímos o código e salvar somente sua versão final com o comando commit que veremos posteriormente.<br>
 
 Veja um esquema de funcionamento do comando add:
 
@@ -27,7 +27,7 @@ O commit pode ser comparado aos registros em um diário, ao executar o comando a
 git commit -m "comentário"
 ```
 
-será realizado o procedimento de commit, no qual o Git acessará a área do Index, buscará os arquivos ali presentes e criará uma revisão com um número e um comentário que poderá ser visualizado por todos os colaboradores do projeto.
+será realizado o procedimento de commit, no qual o Git acessará a área do Index, buscará os arquivos ali presentes e criará uma revisão com um número e um comentário que poderá ser visualizado por todos os colaboradores do projeto.<br>
 Podemos compara o comando **git add** com a demarcação de um terreno, podemos muitas vezes mudar a forma deste terreno enquanto pensamos na melhor maneira de construir, e o comando **git commit** é a construção dos muros do terreno em si, na qual será explicitada o porquê demarcamos o terreno daquele jeito ou ainda, o porquê alteramos determinada parte do mesmo.
 Perceba que é muito mais fácil realizar alterações na demarcação do terreno tendo uma visão virtual (Index) de sua construção do que construir os muros e então destruir, e então construir novamente.<br>
 
