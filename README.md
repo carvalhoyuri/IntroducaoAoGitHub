@@ -16,7 +16,7 @@
 4. [Clonando Repositório](/1_instalando_git/clonando-repos.md)
 ### Comandos iniciais
 
-1.[Introdução aos comandos](/2_comandos/introducao_comandos.md)
+1. [Introdução aos comandos](/2_comandos/introducao_comandos.md)
 2. [Comandos Add e Commit](/2_comandos/add_e_commit.md)
 3. [Push](/2_comandos/push.md)
 4. [Branch](/2_comandos/branch.md)
