@@ -5,9 +5,9 @@ No mundo da programação, comumente ocorrem situações nas quais com o passar 
 # Add
 
 O comando 
-'''
-git add <arquivos>
-'''
+```
+git add "arquivo"
+```
 
 Adicionará quaisquer arquivos em um lugar chamada Index, citado anteriormente. Ao executar este comando não estamos adicionando um arquivo novo ao repositório em questão, mas sim informando que o arquivo (novo ou não) está sendo preparado para entrar na próxima revisão do repositório.<br>
 

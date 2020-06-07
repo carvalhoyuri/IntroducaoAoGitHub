@@ -13,7 +13,7 @@
 1. [Instalando o Git](/1_instalando_git/instalando-git.md)
 2. [Criando a conta no GitHub](/1_instalando_git/criando-conta.md)
 3. [Configurando o Git](/1_instalando_git/configurando-o-git.md)
-4. [Clonando Repositório](/1_instalando_git/clonando-repos.md)
+4. [Clonando Repositórios](/1_instalando_git/clonando-repos.md)
 ### Comandos iniciais
 
 1. [Introdução aos comandos](/2_comandos/introducao_comandos.md)
@@ -21,9 +21,8 @@
 3. [Push](/2_comandos/push.md)
 4. [Branch](/2_comandos/branch.md)
 5. [Merge](/2_comandos/merge.md)
-6. [Push](/2_comandos/push.md)
-7. [Status](/2_comandos/status.md)
-8. [Diff](/2_comandos/diff.md)
+6. [Status](/2_comandos/status.md)
+7. [Diff](/2_comandos/diff.md)
 
 
 

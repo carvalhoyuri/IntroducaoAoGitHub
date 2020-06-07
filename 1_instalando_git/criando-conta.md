@@ -10,7 +10,7 @@ Após criar sua conta, você verá um botão verde no canto superior esquerdo da
 Um repositório nada mais é que a pasta do seu projeto. Na imagem acima, foi criado um repositório com o nome TutorialGitHub, de domínio público (é possível criar repositórios privados pagando uma determinada mensalidade), e com o arquivo README.md embutido, o qual contém uma descrição do projeto. <br>
 Para começar a entender as mecânicas do github é fundamental criar repositórios de teste inicialmente.<br>
 
-Após a criação do repositório ele estará disponível no seguite endereço: **https://github.com/<username>/NomeDoRepositório**, sendo username o nome de usuário utilizado no cadastro. Ao acessar essa URL, obtemos a seguinte resposta:<br>
+Após a criação do repositório ele estará disponível no seguite endereço: **https://github.com/username/NomeDoRepositório**, sendo username o nome de usuário utilizado no cadastro. Ao acessar essa URL, obtemos a seguinte resposta:<br>
 
 ![imagem tela principal](/images/tela_principal.PNG)
 

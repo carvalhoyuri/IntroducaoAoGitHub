@@ -20,7 +20,7 @@ git branch
 
 echo "I'm your father!" > LukeDontOpen.txt
 git add .
-git commit -m Inserção de novo arquivo
+git commit -m "Inserção de novo arquivo"
 ```
 
 Confira um esquema de todas as alterações feitas até aqui:
