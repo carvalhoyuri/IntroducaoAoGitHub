@@ -22,7 +22,7 @@
 4. [Branch](/2_comandos/branch.md)
 5. [Merge](/2_comandos/merge.md)
 6. [Status](/2_comandos/status.md)
-7. [Diff](/2_comandos/diff.md)
+7. [Diff](/2_comandos/Diff.md)
 
 
 
