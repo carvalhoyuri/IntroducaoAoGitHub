@@ -66,7 +66,7 @@ git add 42.txt
 git commit -m "Alteração no texto do arquivo txt"
 ```
 
-Portanto, um commit nada mais é do que  adição/edição/remoção de um ou mais arquivos de um determinado repositório.
+Portanto, um commit nada mais é do que  adição/edição/remoção de um ou mais arquivos em um determinado repositório.
 
 
 
